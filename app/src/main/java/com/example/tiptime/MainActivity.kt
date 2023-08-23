@@ -11,6 +11,7 @@ import java.text.NumberFormat
 
 class MainActivity : AppCompatActivity() {
 
+    // Komentar untuk menguji perubahan commit antar akun pada GitHub
     private lateinit var binding : ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
